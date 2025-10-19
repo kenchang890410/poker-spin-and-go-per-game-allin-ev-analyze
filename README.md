@@ -1,4 +1,4 @@
-# poker spin and gold per game allin ev analyze
+# Poker Spin and Gold per Game Allin EV Analyzer
 
 這個程式可以分析德州撲克平台 Natural8 的 spin and gold 遊戲結果，計算玩家遊戲中 allin 之後籌碼獲得的期望值。
 
