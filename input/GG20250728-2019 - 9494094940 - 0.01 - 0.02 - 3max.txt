@@ -1,0 +1,34 @@
+Poker Hand #SG3013763699: Tournament #221500968, Spin&Gold #7 Hold'em No Limit - Level1(10/20) - 2025/07/29 04:19:18
+Table '94940' 3-max Seat #3 is the button
+Seat 1: 8a9edb9e (300 in chips)
+Seat 2: Hero (300 in chips)
+Seat 3: 6490bab2 (300 in chips)
+8a9edb9e: posts small blind 10
+Hero: posts big blind 20
+*** HOLE CARDS ***
+Dealt to 8a9edb9e 
+Dealt to Hero [Ac Ad]
+Dealt to 6490bab2 
+6490bab2: calls 20
+8a9edb9e: calls 10
+Hero: raises 100 to 120
+6490bab2: calls 100
+8a9edb9e: raises 180 to 300 and is all-in
+Hero: calls 180 and is all-in
+6490bab2: calls 180 and is all-in
+8a9edb9e: shows [Ks Jd]
+Hero: shows [Ac Ad]
+6490bab2: shows [As 4s]
+*** FLOP *** [Qh 9d 6h]
+*** TURN *** [Qh 9d 6h] [5s]
+*** RIVER *** [Qh 9d 6h 5s] [3c]
+*** SHOWDOWN ***
+Hero collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qh 9d 6h 5s 3c]
+Seat 1: 8a9edb9e (small blind) showed [Ks Jd] and lost with King high
+Seat 2: Hero (big blind) showed [Ac Ad] and won (900) with a pair of Aces
+Seat 3: 6490bab2 (button) showed [As 4s] and lost with Ace high
+
+

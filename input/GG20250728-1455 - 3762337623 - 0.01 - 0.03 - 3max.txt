@@ -1,0 +1,217 @@
+Poker Hand #SG3012839526: Tournament #221435379, Spin&Gold #7 Hold'em No Limit - Level2(15/30) - 2025/07/28 22:58:25
+Table '37623' 3-max Seat #3 is the button
+Seat 2: Hero (802 in chips)
+Seat 3: d056c5db (98 in chips)
+d056c5db: posts small blind 15
+Hero: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Hero [Ah 5s]
+Dealt to d056c5db 
+d056c5db: raises 68 to 98 and is all-in
+Hero: calls 68
+d056c5db: shows [4d 3c]
+Hero: shows [Ah 5s]
+*** FLOP *** [6h 8h Qd]
+*** TURN *** [6h 8h Qd] [As]
+*** RIVER *** [6h 8h Qd As] [Kc]
+*** SHOWDOWN ***
+Hero collected 196 from pot
+*** SUMMARY ***
+Total pot 196 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h 8h Qd As Kc]
+Seat 2: Hero (big blind) showed [Ah 5s] and won (196) with a pair of Aces
+Seat 3: d056c5db (small blind) showed [4d 3c] and lost with Ace high
+
+
+Poker Hand #SG3012839339: Tournament #221435379, Spin&Gold #7 Hold'em No Limit - Level2(15/30) - 2025/07/28 22:58:09
+Table '37623' 3-max Seat #2 is the button
+Seat 2: Hero (851 in chips)
+Seat 3: d056c5db (49 in chips)
+Hero: posts small blind 15
+d056c5db: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Hero [9s 4c]
+Dealt to d056c5db 
+Hero: raises 30 to 60
+d056c5db: calls 19 and is all-in
+Uncalled bet (11) returned to Hero
+Hero: shows [9s 4c]
+d056c5db: shows [7h Js]
+*** FLOP *** [Kc 6h 9c]
+*** TURN *** [Kc 6h 9c] [5s]
+*** RIVER *** [Kc 6h 9c 5s] [8h]
+*** SHOWDOWN ***
+d056c5db collected 98 from pot
+*** SUMMARY ***
+Total pot 98 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kc 6h 9c 5s 8h]
+Seat 2: Hero (small blind) showed [9s 4c] and lost with a pair of Nines
+Seat 3: d056c5db (big blind) showed [7h Js] and won (98) with a straight, Nine to Five
+
+
+Poker Hand #SG3012839026: Tournament #221435379, Spin&Gold #7 Hold'em No Limit - Level2(15/30) - 2025/07/28 22:57:43
+Table '37623' 3-max Seat #1 is the button
+Seat 1: d9e089f0 (63 in chips)
+Seat 2: Hero (394 in chips)
+Seat 3: d056c5db (443 in chips)
+Hero: posts small blind 15
+d056c5db: posts big blind 30
+*** HOLE CARDS ***
+Dealt to d9e089f0 
+Dealt to Hero [Ah Ac]
+Dealt to d056c5db 
+d9e089f0: raises 33 to 63 and is all-in
+Hero: calls 48
+d056c5db: calls 33
+*** FLOP *** [Js Ad 7s]
+Hero: checks
+d056c5db: bets 142
+Hero: calls 142
+*** TURN *** [Js Ad 7s] [Qc]
+Hero: checks
+d056c5db: bets 237
+Hero: calls 189 and is all-in
+Uncalled bet (48) returned to d056c5db
+d056c5db: shows [Qs 2s] (a pair of Queens)
+d9e089f0: shows [8s 9d] (Ace high)
+Hero: shows [Ah Ac] (three of a kind, Aces)
+*** RIVER *** [Js Ad 7s Qc] [8h]
+*** SHOWDOWN ***
+Hero collected 189 from pot
+Hero collected 662 from pot
+*** SUMMARY ***
+Total pot 851 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Js Ad 7s Qc 8h]
+Seat 1: d9e089f0 (button) showed [8s 9d] and lost with a pair of Eights
+Seat 2: Hero (small blind) showed [Ah Ac] and won (851) with three of a kind, Aces
+Seat 3: d056c5db (big blind) showed [Qs 2s] and lost with a pair of Queens
+
+
+Poker Hand #SG3012838507: Tournament #221435379, Spin&Gold #7 Hold'em No Limit - Level1(10/20) - 2025/07/28 22:56:58
+Table '37623' 3-max Seat #3 is the button
+Seat 1: d9e089f0 (260 in chips)
+Seat 2: Hero (197 in chips)
+Seat 3: d056c5db (443 in chips)
+d9e089f0: posts small blind 10
+Hero: posts big blind 20
+*** HOLE CARDS ***
+Dealt to d9e089f0 
+Dealt to Hero [Jd Js]
+Dealt to d056c5db 
+d056c5db: folds
+d9e089f0: calls 10
+Hero: raises 40 to 60
+d9e089f0: raises 40 to 100
+Hero: raises 97 to 197 and is all-in
+d9e089f0: calls 97
+Hero: shows [Jd Js]
+d9e089f0: shows [6s 7h]
+*** FLOP *** [7s Ah Tc]
+*** TURN *** [7s Ah Tc] [2h]
+*** RIVER *** [7s Ah Tc 2h] [5h]
+*** SHOWDOWN ***
+Hero collected 394 from pot
+*** SUMMARY ***
+Total pot 394 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7s Ah Tc 2h 5h]
+Seat 1: d9e089f0 (small blind) showed [6s 7h] and lost with a pair of Sevens
+Seat 2: Hero (big blind) showed [Jd Js] and won (394) with a pair of Jacks
+Seat 3: d056c5db (button) folded before Flop (didn't bet)
+
+
+Poker Hand #SG3012838193: Tournament #221435379, Spin&Gold #7 Hold'em No Limit - Level1(10/20) - 2025/07/28 22:56:31
+Table '37623' 3-max Seat #2 is the button
+Seat 1: d9e089f0 (340 in chips)
+Seat 2: Hero (197 in chips)
+Seat 3: d056c5db (363 in chips)
+d056c5db: posts small blind 10
+d9e089f0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to d9e089f0 
+Dealt to Hero [6h Qd]
+Dealt to d056c5db 
+Hero: folds
+d056c5db: calls 10
+d9e089f0: checks
+*** FLOP *** [Kh Qs Th]
+d056c5db: bets 20
+d9e089f0: calls 20
+*** TURN *** [Kh Qs Th] [9s]
+d056c5db: bets 40
+d9e089f0: calls 40
+*** RIVER *** [Kh Qs Th 9s] [5d]
+d056c5db: bets 53
+d9e089f0: folds
+Uncalled bet (53) returned to d056c5db
+*** SHOWDOWN ***
+d056c5db collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kh Qs Th 9s 5d]
+Seat 1: d9e089f0 (big blind) folded on the River
+Seat 2: Hero (button) folded before Flop (didn't bet)
+Seat 3: d056c5db (small blind) won (160)
+
+
+Poker Hand #SG3012837934: Tournament #221435379, Spin&Gold #7 Hold'em No Limit - Level1(10/20) - 2025/07/28 22:56:10
+Table '37623' 3-max Seat #1 is the button
+Seat 1: d9e089f0 (290 in chips)
+Seat 2: Hero (207 in chips)
+Seat 3: d056c5db (403 in chips)
+Hero: posts small blind 10
+d056c5db: posts big blind 20
+*** HOLE CARDS ***
+Dealt to d9e089f0 
+Dealt to Hero [Jh Kd]
+Dealt to d056c5db 
+d9e089f0: raises 20 to 40
+Hero: folds
+d056c5db: calls 20
+*** FLOP *** [2s Qh 7c]
+d056c5db: checks
+d9e089f0: bets 68
+d056c5db: folds
+Uncalled bet (68) returned to d9e089f0
+*** SHOWDOWN ***
+d9e089f0 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2s Qh 7c]
+Seat 1: d9e089f0 (button) won (90)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: d056c5db (big blind) folded on the Flop
+
+
+Poker Hand #SG3012837664: Tournament #221435379, Spin&Gold #7 Hold'em No Limit - Level1(10/20) - 2025/07/28 22:55:45
+Table '37623' 3-max Seat #3 is the button
+Seat 1: d9e089f0 (300 in chips)
+Seat 2: Hero (300 in chips)
+Seat 3: d056c5db (300 in chips)
+d9e089f0: posts small blind 10
+Hero: posts big blind 20
+*** HOLE CARDS ***
+Dealt to d9e089f0 
+Dealt to Hero [2h Kc]
+Dealt to d056c5db 
+d056c5db: raises 24 to 44
+d9e089f0: folds
+Hero: calls 24
+*** FLOP *** [7h 7c 2d]
+Hero: checks
+d056c5db: bets 49
+Hero: calls 49
+*** TURN *** [7h 7c 2d] [9h]
+Hero: checks
+d056c5db: bets 98
+Hero: folds
+Uncalled bet (98) returned to d056c5db
+*** SHOWDOWN ***
+d056c5db collected 196 from pot
+*** SUMMARY ***
+Total pot 196 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7h 7c 2d 9h]
+Seat 1: d9e089f0 (small blind) folded before Flop
+Seat 2: Hero (big blind) folded on the Turn
+Seat 3: d056c5db (button) won (196)
+
+

@@ -1,0 +1,86 @@
+Poker Hand #SG3013693515: Tournament #221496492, Spin&Gold #7 Hold'em No Limit - Level1(10/20) - 2025/07/29 03:56:34
+Table '91043' 3-max Seat #2 is the button
+Seat 1: a983c95a (260 in chips)
+Seat 2: 2991a9a1 (400 in chips)
+Seat 3: Hero (240 in chips)
+Hero: posts small blind 10
+a983c95a: posts big blind 20
+*** HOLE CARDS ***
+Dealt to a983c95a 
+Dealt to 2991a9a1 
+Dealt to Hero [Ks 5c]
+2991a9a1: folds
+Hero: raises 220 to 240 and is all-in
+a983c95a: calls 220
+Hero: shows [Ks 5c]
+a983c95a: shows [As 3h]
+*** FLOP *** [9s 2d Jc]
+*** TURN *** [9s 2d Jc] [6d]
+*** RIVER *** [9s 2d Jc 6d] [Ac]
+*** SHOWDOWN ***
+a983c95a collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9s 2d Jc 6d Ac]
+Seat 1: a983c95a (big blind) showed [As 3h] and won (480) with a pair of Aces
+Seat 2: 2991a9a1 (button) folded before Flop (didn't bet)
+Seat 3: Hero (small blind) showed [Ks 5c] and lost with Ace high
+
+
+Poker Hand #SG3013693086: Tournament #221496492, Spin&Gold #7 Hold'em No Limit - Level1(10/20) - 2025/07/29 03:55:59
+Table '91043' 3-max Seat #1 is the button
+Seat 1: a983c95a (320 in chips)
+Seat 2: 2991a9a1 (280 in chips)
+Seat 3: Hero (300 in chips)
+2991a9a1: posts small blind 10
+Hero: posts big blind 20
+*** HOLE CARDS ***
+Dealt to a983c95a 
+Dealt to 2991a9a1 
+Dealt to Hero [5d Qd]
+a983c95a: raises 40 to 60
+2991a9a1: calls 50
+Hero: calls 40
+*** FLOP *** [Jd 4c 4h]
+2991a9a1: checks
+Hero: checks
+a983c95a: checks
+*** TURN *** [Jd 4c 4h] [Tc]
+2991a9a1: bets 220 and is all-in
+Hero: folds
+a983c95a: folds
+Uncalled bet (220) returned to 2991a9a1
+*** SHOWDOWN ***
+2991a9a1 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jd 4c 4h Tc]
+Seat 1: a983c95a (button) folded on the Turn
+Seat 2: 2991a9a1 (small blind) won (180)
+Seat 3: Hero (big blind) folded on the Turn
+
+
+Poker Hand #SG3013692994: Tournament #221496492, Spin&Gold #7 Hold'em No Limit - Level1(10/20) - 2025/07/29 03:55:50
+Table '91043' 3-max Seat #3 is the button
+Seat 1: a983c95a (300 in chips)
+Seat 2: 2991a9a1 (300 in chips)
+Seat 3: Hero (300 in chips)
+a983c95a: posts small blind 10
+2991a9a1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to a983c95a 
+Dealt to 2991a9a1 
+Dealt to Hero [2s 3c]
+Hero: folds
+a983c95a: raises 40 to 60
+2991a9a1: folds
+Uncalled bet (40) returned to a983c95a
+*** SHOWDOWN ***
+a983c95a collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: a983c95a (small blind) collected (40)
+Seat 2: 2991a9a1 (big blind) folded before Flop
+Seat 3: Hero (button) folded before Flop (didn't bet)
+
+

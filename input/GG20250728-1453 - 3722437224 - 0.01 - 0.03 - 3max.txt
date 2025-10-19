@@ -1,0 +1,182 @@
+Poker Hand #SG3012837137: Tournament #221434993, Spin&Gold #7 Hold'em No Limit - Level2(15/30) - 2025/07/28 22:55:01
+Table '37224' 3-max Seat #2 is the button
+Seat 2: 46e449d6 (390 in chips)
+Seat 3: Hero (510 in chips)
+46e449d6: posts small blind 15
+Hero: posts big blind 30
+*** HOLE CARDS ***
+Dealt to 46e449d6 
+Dealt to Hero [As Ad]
+46e449d6: raises 360 to 390 and is all-in
+Hero: calls 360
+46e449d6: shows [Jc 8d]
+Hero: shows [As Ad]
+*** FLOP *** [5s Js Qc]
+*** TURN *** [5s Js Qc] [Qh]
+*** RIVER *** [5s Js Qc Qh] [4c]
+*** SHOWDOWN ***
+Hero collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5s Js Qc Qh 4c]
+Seat 2: 46e449d6 (small blind) showed [Jc 8d] and lost with two pair, Queens and Jacks
+Seat 3: Hero (big blind) showed [As Ad] and won (780) with two pair, Aces and Queens
+
+
+Poker Hand #SG3012836974: Tournament #221434993, Spin&Gold #7 Hold'em No Limit - Level2(15/30) - 2025/07/28 22:54:46
+Table '37224' 3-max Seat #3 is the button
+Seat 2: 46e449d6 (420 in chips)
+Seat 3: Hero (480 in chips)
+Hero: posts small blind 15
+46e449d6: posts big blind 30
+*** HOLE CARDS ***
+Dealt to 46e449d6 
+Dealt to Hero [Ad 5c]
+Hero: raises 450 to 480 and is all-in
+46e449d6: folds
+Uncalled bet (450) returned to Hero
+*** SHOWDOWN ***
+Hero collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: 46e449d6 (big blind) folded before Flop
+Seat 3: Hero (small blind) collected (60)
+
+
+Poker Hand #SG3012836831: Tournament #221434993, Spin&Gold #7 Hold'em No Limit - Level2(15/30) - 2025/07/28 22:54:34
+Table '37224' 3-max Seat #2 is the button
+Seat 2: 46e449d6 (390 in chips)
+Seat 3: Hero (510 in chips)
+46e449d6: posts small blind 15
+Hero: posts big blind 30
+*** HOLE CARDS ***
+Dealt to 46e449d6 
+Dealt to Hero [Jh 8h]
+46e449d6: raises 360 to 390 and is all-in
+Hero: folds
+Uncalled bet (360) returned to 46e449d6
+*** SHOWDOWN ***
+46e449d6 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: 46e449d6 (small blind) collected (60)
+Seat 3: Hero (big blind) folded before Flop
+
+
+Poker Hand #SG3012836719: Tournament #221434993, Spin&Gold #7 Hold'em No Limit - Level2(15/30) - 2025/07/28 22:54:24
+Table '37224' 3-max Seat #3 is the button
+Seat 2: 46e449d6 (360 in chips)
+Seat 3: Hero (540 in chips)
+Hero: posts small blind 15
+46e449d6: posts big blind 30
+*** HOLE CARDS ***
+Dealt to 46e449d6 
+Dealt to Hero [2c Qh]
+Hero: calls 15
+46e449d6: raises 330 to 360 and is all-in
+Hero: folds
+Uncalled bet (330) returned to 46e449d6
+*** SHOWDOWN ***
+46e449d6 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: 46e449d6 (big blind) collected (60)
+Seat 3: Hero (small blind) folded before Flop
+
+
+Poker Hand #SG3012836627: Tournament #221434993, Spin&Gold #7 Hold'em No Limit - Level1(10/20) - 2025/07/28 22:54:17
+Table '37224' 3-max Seat #2 is the button
+Seat 2: 46e449d6 (340 in chips)
+Seat 3: Hero (560 in chips)
+46e449d6: posts small blind 10
+Hero: posts big blind 20
+*** HOLE CARDS ***
+Dealt to 46e449d6 
+Dealt to Hero [6s 5c]
+46e449d6: raises 320 to 340 and is all-in
+Hero: folds
+Uncalled bet (320) returned to 46e449d6
+*** SHOWDOWN ***
+46e449d6 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: 46e449d6 (small blind) collected (40)
+Seat 3: Hero (big blind) folded before Flop
+
+
+Poker Hand #SG3012836397: Tournament #221434993, Spin&Gold #7 Hold'em No Limit - Level1(10/20) - 2025/07/28 22:53:55
+Table '37224' 3-max Seat #3 is the button
+Seat 2: 46e449d6 (620 in chips)
+Seat 3: Hero (280 in chips)
+Hero: posts small blind 10
+46e449d6: posts big blind 20
+*** HOLE CARDS ***
+Dealt to 46e449d6 
+Dealt to Hero [Kc Jc]
+Hero: raises 20 to 40
+46e449d6: raises 580 to 620 and is all-in
+Hero: calls 240 and is all-in
+Uncalled bet (340) returned to 46e449d6
+46e449d6: shows [Qd 6d]
+Hero: shows [Kc Jc]
+*** FLOP *** [5h 3d 2d]
+*** TURN *** [5h 3d 2d] [As]
+*** RIVER *** [5h 3d 2d As] [8h]
+*** SHOWDOWN ***
+Hero collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5h 3d 2d As 8h]
+Seat 2: 46e449d6 (big blind) showed [Qd 6d] and lost with Ace high
+Seat 3: Hero (small blind) showed [Kc Jc] and won (560) with Ace high
+
+
+Poker Hand #SG3012836305: Tournament #221434993, Spin&Gold #7 Hold'em No Limit - Level1(10/20) - 2025/07/28 22:53:47
+Table '37224' 3-max Seat #2 is the button
+Seat 2: 46e449d6 (600 in chips)
+Seat 3: Hero (300 in chips)
+46e449d6: posts small blind 10
+Hero: posts big blind 20
+*** HOLE CARDS ***
+Dealt to 46e449d6 
+Dealt to Hero [3d Jc]
+46e449d6: raises 580 to 600 and is all-in
+Hero: folds
+Uncalled bet (580) returned to 46e449d6
+*** SHOWDOWN ***
+46e449d6 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: 46e449d6 (small blind) collected (40)
+Seat 3: Hero (big blind) folded before Flop
+
+
+Poker Hand #SG3012836067: Tournament #221434993, Spin&Gold #7 Hold'em No Limit - Level1(10/20) - 2025/07/28 22:53:25
+Table '37224' 3-max Seat #3 is the button
+Seat 1: 368ebd59 (300 in chips)
+Seat 2: 46e449d6 (300 in chips)
+Seat 3: Hero (300 in chips)
+368ebd59: posts small blind 10
+46e449d6: posts big blind 20
+*** HOLE CARDS ***
+Dealt to 368ebd59 
+Dealt to 46e449d6 
+Dealt to Hero [4s Td]
+Hero: folds
+368ebd59: raises 280 to 300 and is all-in
+46e449d6: calls 280 and is all-in
+368ebd59: shows [7c 6h]
+46e449d6: shows [Qs Ts]
+*** FLOP *** [4h Js Ah]
+*** TURN *** [4h Js Ah] [As]
+*** RIVER *** [4h Js Ah As] [3s]
+*** SHOWDOWN ***
+46e449d6 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4h Js Ah As 3s]
+Seat 1: 368ebd59 (small blind) showed [7c 6h] and lost with a pair of Aces
+Seat 2: 46e449d6 (big blind) showed [Qs Ts] and won (600) with a flush Ace high
+Seat 3: Hero (button) folded before Flop (didn't bet)
+
+

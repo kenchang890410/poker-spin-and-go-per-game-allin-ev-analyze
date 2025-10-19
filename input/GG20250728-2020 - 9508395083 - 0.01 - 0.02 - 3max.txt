@@ -1,0 +1,41 @@
+Poker Hand #SG3013739125: Tournament #221501113, Spin&Gold #7 Hold'em No Limit - Level1(10/20) - 2025/07/29 04:20:08
+Table '95083' 3-max Seat #3 is the button
+Seat 1: 62bcc074 (300 in chips)
+Seat 2: 954e2834 (300 in chips)
+Seat 3: Hero (300 in chips)
+62bcc074: posts small blind 10
+954e2834: posts big blind 20
+*** HOLE CARDS ***
+Dealt to 62bcc074 
+Dealt to 954e2834 
+Dealt to Hero [Ts Kd]
+Hero: raises 20 to 40
+62bcc074: calls 30
+954e2834: calls 20
+*** FLOP *** [Ks 3c 7s]
+62bcc074: checks
+954e2834: checks
+Hero: bets 20
+62bcc074: calls 20
+954e2834: calls 20
+*** TURN *** [Ks 3c 7s] [9c]
+62bcc074: checks
+954e2834: checks
+Hero: bets 90
+62bcc074: calls 90
+954e2834: folds
+*** RIVER *** [Ks 3c 7s 9c] [9d]
+62bcc074: bets 150 and is all-in
+Hero: calls 150 and is all-in
+62bcc074: shows [9s 2s] (three of a kind, Nines)
+Hero: shows [Ts Kd] (two pair, Kings and Nines)
+*** SHOWDOWN ***
+62bcc074 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ks 3c 7s 9c 9d]
+Seat 1: 62bcc074 (small blind) showed [9s 2s] and won (660) with three of a kind, Nines
+Seat 2: 954e2834 (big blind) folded on the Turn
+Seat 3: Hero (button) showed [Ts Kd] and lost with two pair, Kings and Nines
+
+

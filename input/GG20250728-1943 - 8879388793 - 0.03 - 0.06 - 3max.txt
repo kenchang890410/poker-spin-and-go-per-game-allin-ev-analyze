@@ -1,0 +1,337 @@
+Poker Hand #SG3013681860: Tournament #221493923, Spin&Gold #7 Hold'em No Limit - Level4(30/60) - 2025/07/29 03:46:45
+Table '88793' 3-max Seat #3 is the button
+Seat 1: Hero (570 in chips)
+Seat 3: eb441fa1 (330 in chips)
+eb441fa1: posts small blind 30
+Hero: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Hero [Qh Ac]
+Dealt to eb441fa1 
+eb441fa1: raises 270 to 330 and is all-in
+Hero: calls 270
+eb441fa1: shows [7c 6h]
+Hero: shows [Qh Ac]
+*** FLOP *** [4c Th Ad]
+*** TURN *** [4c Th Ad] [8c]
+*** RIVER *** [4c Th Ad 8c] [2s]
+*** SHOWDOWN ***
+Hero collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c Th Ad 8c 2s]
+Seat 1: Hero (big blind) showed [Qh Ac] and won (660) with a pair of Aces
+Seat 3: eb441fa1 (small blind) showed [7c 6h] and lost with Ace high
+
+
+Poker Hand #SG3013681784: Tournament #221493923, Spin&Gold #7 Hold'em No Limit - Level4(30/60) - 2025/07/29 03:46:39
+Table '88793' 3-max Seat #1 is the button
+Seat 1: Hero (600 in chips)
+Seat 3: eb441fa1 (300 in chips)
+Hero: posts small blind 30
+eb441fa1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Hero [7c 9h]
+Dealt to eb441fa1 
+Hero: folds
+Uncalled bet (30) returned to eb441fa1
+*** SHOWDOWN ***
+eb441fa1 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (small blind) folded before Flop
+Seat 3: eb441fa1 (big blind) collected (60)
+
+
+Poker Hand #SG3013681620: Tournament #221493923, Spin&Gold #7 Hold'em No Limit - Level4(30/60) - 2025/07/29 03:46:27
+Table '88793' 3-max Seat #3 is the button
+Seat 1: Hero (660 in chips)
+Seat 3: eb441fa1 (240 in chips)
+eb441fa1: posts small blind 30
+Hero: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Hero [2s 8s]
+Dealt to eb441fa1 
+eb441fa1: raises 180 to 240 and is all-in
+Hero: folds
+Uncalled bet (180) returned to eb441fa1
+*** SHOWDOWN ***
+eb441fa1 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (big blind) folded before Flop
+Seat 3: eb441fa1 (small blind) collected (120)
+
+
+Poker Hand #SG3013681356: Tournament #221493923, Spin&Gold #7 Hold'em No Limit - Level3(20/40) - 2025/07/29 03:46:05
+Table '88793' 3-max Seat #1 is the button
+Seat 1: Hero (330 in chips)
+Seat 3: eb441fa1 (570 in chips)
+Hero: posts small blind 20
+eb441fa1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Hero [Ts 3s]
+Dealt to eb441fa1 
+Hero: calls 20
+eb441fa1: checks
+*** FLOP *** [3d 6s 5s]
+eb441fa1: checks
+Hero: bets 290 and is all-in
+eb441fa1: calls 290
+Hero: shows [Ts 3s] (a pair of Threes)
+eb441fa1: shows [Qs 5c] (a pair of Fives)
+*** TURN *** [3d 6s 5s] [3h]
+*** RIVER *** [3d 6s 5s 3h] [Ah]
+*** SHOWDOWN ***
+Hero collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3d 6s 5s 3h Ah]
+Seat 1: Hero (small blind) showed [Ts 3s] and won (660) with three of a kind, Threes
+Seat 3: eb441fa1 (big blind) showed [Qs 5c] and lost with two pair, Fives and Threes
+
+
+Poker Hand #SG3013681081: Tournament #221493923, Spin&Gold #7 Hold'em No Limit - Level3(20/40) - 2025/07/29 03:45:41
+Table '88793' 3-max Seat #3 is the button
+Seat 1: Hero (570 in chips)
+Seat 2: 3eca5024 (90 in chips)
+Seat 3: eb441fa1 (240 in chips)
+Hero: posts small blind 20
+3eca5024: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Hero [Ad 5c]
+Dealt to 3eca5024 
+Dealt to eb441fa1 
+eb441fa1: raises 200 to 240 and is all-in
+Hero: calls 220
+3eca5024: calls 50 and is all-in
+eb441fa1: shows [Tc Kh]
+Hero: shows [Ad 5c]
+3eca5024: shows [8c Td]
+*** FLOP *** [2c 6d Qh]
+*** TURN *** [2c 6d Qh] [Ac]
+*** RIVER *** [2c 6d Qh Ac] [Js]
+*** SHOWDOWN ***
+eb441fa1 collected 270 from pot
+eb441fa1 collected 300 from pot
+*** SUMMARY ***
+Total pot 570 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2c 6d Qh Ac Js]
+Seat 1: Hero (small blind) showed [Ad 5c] and lost with a pair of Aces
+Seat 2: 3eca5024 (big blind) showed [8c Td] and lost with Ace high
+Seat 3: eb441fa1 (button) showed [Tc Kh] and won (570) with a straight, Ace to Ten
+
+
+Poker Hand #SG3013680706: Tournament #221493923, Spin&Gold #7 Hold'em No Limit - Level3(20/40) - 2025/07/29 03:45:11
+Table '88793' 3-max Seat #2 is the button
+Seat 1: Hero (275 in chips)
+Seat 2: 3eca5024 (365 in chips)
+Seat 3: eb441fa1 (260 in chips)
+eb441fa1: posts small blind 20
+Hero: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Hero [Kc 4c]
+Dealt to 3eca5024 
+Dealt to eb441fa1 
+3eca5024: raises 120 to 160
+eb441fa1: folds
+Hero: raises 115 to 275 and is all-in
+3eca5024: calls 115
+Hero: shows [Kc 4c]
+3eca5024: shows [Kd Ts]
+*** FLOP *** [7c 3h 5c]
+*** TURN *** [7c 3h 5c] [Ac]
+*** RIVER *** [7c 3h 5c Ac] [Jd]
+*** SHOWDOWN ***
+Hero collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7c 3h 5c Ac Jd]
+Seat 1: Hero (big blind) showed [Kc 4c] and won (570) with a flush Ace high
+Seat 2: 3eca5024 (button) showed [Kd Ts] and lost with Ace high
+Seat 3: eb441fa1 (small blind) folded before Flop
+
+
+Poker Hand #SG3013680534: Tournament #221493923, Spin&Gold #7 Hold'em No Limit - Level2(15/30) - 2025/07/29 03:44:56
+Table '88793' 3-max Seat #1 is the button
+Seat 1: Hero (275 in chips)
+Seat 2: 3eca5024 (335 in chips)
+Seat 3: eb441fa1 (290 in chips)
+3eca5024: posts small blind 15
+eb441fa1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Hero [4d Td]
+Dealt to 3eca5024 
+Dealt to eb441fa1 
+Hero: folds
+3eca5024: raises 90 to 120
+eb441fa1: folds
+Uncalled bet (90) returned to 3eca5024
+*** SHOWDOWN ***
+3eca5024 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: 3eca5024 (small blind) collected (60)
+Seat 3: eb441fa1 (big blind) folded before Flop
+
+
+Poker Hand #SG3013680454: Tournament #221493923, Spin&Gold #7 Hold'em No Limit - Level2(15/30) - 2025/07/29 03:44:49
+Table '88793' 3-max Seat #3 is the button
+Seat 1: Hero (290 in chips)
+Seat 2: 3eca5024 (320 in chips)
+Seat 3: eb441fa1 (290 in chips)
+Hero: posts small blind 15
+3eca5024: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Hero [4d 3h]
+Dealt to 3eca5024 
+Dealt to eb441fa1 
+eb441fa1: folds
+Hero: folds
+Uncalled bet (15) returned to 3eca5024
+*** SHOWDOWN ***
+3eca5024 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (small blind) folded before Flop
+Seat 2: 3eca5024 (big blind) collected (30)
+Seat 3: eb441fa1 (button) folded before Flop (didn't bet)
+
+
+Poker Hand #SG3013680330: Tournament #221493923, Spin&Gold #7 Hold'em No Limit - Level2(15/30) - 2025/07/29 03:44:38
+Table '88793' 3-max Seat #2 is the button
+Seat 1: Hero (320 in chips)
+Seat 2: 3eca5024 (320 in chips)
+Seat 3: eb441fa1 (260 in chips)
+eb441fa1: posts small blind 15
+Hero: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Hero [6h 4h]
+Dealt to 3eca5024 
+Dealt to eb441fa1 
+3eca5024: folds
+eb441fa1: raises 60 to 90
+Hero: folds
+Uncalled bet (60) returned to eb441fa1
+*** SHOWDOWN ***
+eb441fa1 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (big blind) folded before Flop
+Seat 2: 3eca5024 (button) folded before Flop (didn't bet)
+Seat 3: eb441fa1 (small blind) collected (60)
+
+
+Poker Hand #SG3013649771: Tournament #221493923, Spin&Gold #7 Hold'em No Limit - Level1(10/20) - 2025/07/29 03:43:49
+Table '88793' 3-max Seat #1 is the button
+Seat 1: Hero (360 in chips)
+Seat 2: 3eca5024 (240 in chips)
+Seat 3: eb441fa1 (300 in chips)
+3eca5024: posts small blind 10
+eb441fa1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Hero [4h As]
+Dealt to 3eca5024 
+Dealt to eb441fa1 
+Hero: raises 20 to 40
+3eca5024: calls 30
+eb441fa1: calls 20
+*** FLOP *** [Td 5h 7c]
+3eca5024: checks
+eb441fa1: checks
+Hero: checks
+*** TURN *** [Td 5h 7c] [Th]
+3eca5024: checks
+eb441fa1: checks
+Hero: checks
+*** RIVER *** [Td 5h 7c Th] [2s]
+3eca5024: checks
+eb441fa1: checks
+Hero: checks
+3eca5024: shows [2h 3s] (two pair, Tens and Twos)
+eb441fa1: shows [Qs Jd] (a pair of Tens)
+Hero: shows [4h As] (a pair of Tens)
+*** SHOWDOWN ***
+3eca5024 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Td 5h 7c Th 2s]
+Seat 1: Hero (button) showed [4h As] and lost with a pair of Tens
+Seat 2: 3eca5024 (small blind) showed [2h 3s] and won (120) with two pair, Tens and Twos
+Seat 3: eb441fa1 (big blind) showed [Qs Jd] and lost with a pair of Tens
+
+
+Poker Hand #SG3013649473: Tournament #221493923, Spin&Gold #7 Hold'em No Limit - Level1(10/20) - 2025/07/29 03:43:24
+Table '88793' 3-max Seat #3 is the button
+Seat 1: Hero (310 in chips)
+Seat 2: 3eca5024 (290 in chips)
+Seat 3: eb441fa1 (300 in chips)
+Hero: posts small blind 10
+3eca5024: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Hero [Qs Ac]
+Dealt to 3eca5024 
+Dealt to eb441fa1 
+eb441fa1: folds
+Hero: raises 30 to 50
+3eca5024: calls 30
+*** FLOP *** [9s Qd 9h]
+Hero: bets 50
+3eca5024: folds
+Uncalled bet (50) returned to Hero
+*** SHOWDOWN ***
+Hero collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9s Qd 9h]
+Seat 1: Hero (small blind) won (100)
+Seat 2: 3eca5024 (big blind) folded on the Flop
+Seat 3: eb441fa1 (button) folded before Flop (didn't bet)
+
+
+Poker Hand #SG3013649380: Tournament #221493923, Spin&Gold #7 Hold'em No Limit - Level1(10/20) - 2025/07/29 03:43:15
+Table '88793' 3-max Seat #2 is the button
+Seat 1: Hero (300 in chips)
+Seat 2: 3eca5024 (290 in chips)
+Seat 3: eb441fa1 (310 in chips)
+eb441fa1: posts small blind 10
+Hero: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Hero [3s Jc]
+Dealt to 3eca5024 
+Dealt to eb441fa1 
+3eca5024: folds
+eb441fa1: folds
+Uncalled bet (10) returned to Hero
+*** SHOWDOWN ***
+Hero collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (big blind) collected (20)
+Seat 2: 3eca5024 (button) folded before Flop (didn't bet)
+Seat 3: eb441fa1 (small blind) folded before Flop
+
+
+Poker Hand #SG3013649295: Tournament #221493923, Spin&Gold #7 Hold'em No Limit - Level1(10/20) - 2025/07/29 03:43:09
+Table '88793' 3-max Seat #1 is the button
+Seat 1: Hero (300 in chips)
+Seat 2: 3eca5024 (300 in chips)
+Seat 3: eb441fa1 (300 in chips)
+3eca5024: posts small blind 10
+eb441fa1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Hero [6s Th]
+Dealt to 3eca5024 
+Dealt to eb441fa1 
+Hero: folds
+3eca5024: folds
+Uncalled bet (10) returned to eb441fa1
+*** SHOWDOWN ***
+eb441fa1 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (button) folded before Flop (didn't bet)
+Seat 2: 3eca5024 (small blind) folded before Flop
+Seat 3: eb441fa1 (big blind) collected (20)
+
+

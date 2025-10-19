@@ -1,0 +1,83 @@
+Poker Hand #SG3012654919: Tournament #221421658, Spin&Gold #7 Hold'em No Limit - Level1(10/20) - 2025/07/28 21:43:45
+Table '25495' 3-max Seat #2 is the button
+Seat 2: c766d9b8 (620 in chips)
+Seat 3: Hero (280 in chips)
+c766d9b8: posts small blind 10
+Hero: posts big blind 20
+*** HOLE CARDS ***
+Dealt to c766d9b8 
+Dealt to Hero [As 2s]
+c766d9b8: raises 20 to 40
+Hero: raises 240 to 280 and is all-in
+c766d9b8: calls 240
+Hero: shows [As 2s]
+c766d9b8: shows [Qh Ac]
+*** FLOP *** [3d 8h 7h]
+*** TURN *** [3d 8h 7h] [Qc]
+*** RIVER *** [3d 8h 7h Qc] [3s]
+*** SHOWDOWN ***
+c766d9b8 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3d 8h 7h Qc 3s]
+Seat 2: c766d9b8 (small blind) showed [Qh Ac] and won (560) with two pair, Queens and Threes
+Seat 3: Hero (big blind) showed [As 2s] and lost with a pair of Threes
+
+
+Poker Hand #SG3012654862: Tournament #221421658, Spin&Gold #7 Hold'em No Limit - Level1(10/20) - 2025/07/28 21:43:40
+Table '25495' 3-max Seat #3 is the button
+Seat 2: c766d9b8 (610 in chips)
+Seat 3: Hero (290 in chips)
+Hero: posts small blind 10
+c766d9b8: posts big blind 20
+*** HOLE CARDS ***
+Dealt to c766d9b8 
+Dealt to Hero [9h 4c]
+Hero: folds
+Uncalled bet (10) returned to c766d9b8
+*** SHOWDOWN ***
+c766d9b8 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: c766d9b8 (big blind) collected (20)
+Seat 3: Hero (small blind) folded before Flop
+
+
+Poker Hand #SG3012654456: Tournament #221421658, Spin&Gold #7 Hold'em No Limit - Level1(10/20) - 2025/07/28 21:43:01
+Table '25495' 3-max Seat #2 is the button
+Seat 1: a97ad86f (300 in chips)
+Seat 2: c766d9b8 (300 in chips)
+Seat 3: Hero (300 in chips)
+Hero: posts small blind 10
+a97ad86f: posts big blind 20
+*** HOLE CARDS ***
+Dealt to a97ad86f 
+Dealt to c766d9b8 
+Dealt to Hero [4c 4s]
+c766d9b8: raises 20 to 40
+Hero: folds
+a97ad86f: calls 20
+*** FLOP *** [7s Ad Kh]
+a97ad86f: checks
+c766d9b8: bets 30
+a97ad86f: calls 30
+*** TURN *** [7s Ad Kh] [9s]
+a97ad86f: checks
+c766d9b8: bets 75
+a97ad86f: calls 75
+*** RIVER *** [7s Ad Kh 9s] [Ac]
+a97ad86f: checks
+c766d9b8: bets 155 and is all-in
+a97ad86f: calls 155 and is all-in
+c766d9b8: shows [Kd Kc] (a full house, Kings full of Aces)
+a97ad86f: shows [Th Ks] (two pair, Aces and Kings)
+*** SHOWDOWN ***
+c766d9b8 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7s Ad Kh 9s Ac]
+Seat 1: a97ad86f (big blind) showed [Th Ks] and lost with two pair, Aces and Kings
+Seat 2: c766d9b8 (button) showed [Kd Kc] and won (610) with a full house, Kings full of Aces
+Seat 3: Hero (small blind) folded before Flop
+
+
