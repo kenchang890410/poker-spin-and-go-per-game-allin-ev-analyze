@@ -154,9 +154,6 @@ avg_pot_size = all_pot_size_sum / total_allin_game_count
 n = total_allin_game_count
 p = (all_pot_size_sum + total_ev) / (all_pot_size_sum * 2)
 target_win = int((total_allin_game_count - (total_profit_chip // avg_pot_size)) // 2 + (total_profit_chip // avg_pot_size))
-
-print("(total_profit_chip // all_pot_size_sum) : ", (total_profit_chip // avg_pot_size))
-print("(total_allin_game_count - (total_profit_chip // all_pot_size_sum)) // 2 : ", (total_allin_game_count - (total_profit_chip // avg_pot_size)) // 2)
 print("target_win : ", target_win)
 
 x = np.arange(0, n + 1)
@@ -183,4 +180,5 @@ plt.ylabel('Probability', fontsize=12)
 
 plt.grid(True, which='both', linestyle='--', linewidth=0.5)
 plt.show()
+
 
