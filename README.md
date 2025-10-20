@@ -2,7 +2,7 @@
 
 這個程式可以分析德州撲克平台 Natural8 的 spin and gold 遊戲結果，計算玩家遊戲中 allin 之後籌碼獲得的期望值。
 
-撲克讀取計算期望值使用 treys、random 函式庫，最後畫圖顯示標準差使用 matplotlib 函式庫。
+撲克模擬發牌與讀取計算期望值使用 treys、random 函式庫，最後畫圖顯示標準差使用 matplotlib 函式庫。
 
 spin and gold 這個遊戲方式的策略中包含大量 allin 的動作，時機的選擇是一個重要的關鍵。
 
